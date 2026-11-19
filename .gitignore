@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Java build output
+bin/
+out/
+target/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
